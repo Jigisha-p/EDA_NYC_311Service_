@@ -13,9 +13,9 @@ The focus on the data wrangling techniques to understand the pattern in the data
 3. Provide major insights/patterns that you can offer in a visual format (graphs or tables); at least 4 major conclusions that you can come up with after generic data mining.
 4. Order the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.
 5. Perform a statistical test for the following:
-Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
-●Whether the average response time across complaint types is similar or not (overall)
-●Are the type of complaint or service requested and location related?
+Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.<p>
+●Whether the average response time across complaint types is similar or not (overall)<p>
+●Are the type of complaint or service requested and location related?<p>
 
 ### Setup and Installation:
 ```bash
